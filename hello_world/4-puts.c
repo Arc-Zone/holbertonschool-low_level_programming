@@ -1,7 +1,9 @@
 #include <stdio.h>
 #include <string.h>
 /**
- *fonction main renvoie une string et retourne 
+ *fonction - main
+ *
+ * return - 0 
  */
 
 int main(void) {
