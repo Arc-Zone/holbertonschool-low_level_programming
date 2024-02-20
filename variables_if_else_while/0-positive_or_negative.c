@@ -3,7 +3,6 @@
 #include <time.h>
 
 /**
- *
  * main - Entry point
  * Description: This program will assign a random number to the variable n
  *
