@@ -10,5 +10,6 @@ int main ()
 		putchar("%d", i);
 		i++;
 	}
-		
+
+	return (0);	
 }	
