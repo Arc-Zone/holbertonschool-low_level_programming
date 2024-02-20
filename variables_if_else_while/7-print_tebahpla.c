@@ -10,11 +10,12 @@
  */
 int main(void)
 {
-	char alphabet = 'z'
+	char alphabet = 'z';
 	
-	while(alphabet => 'a'){
-	putchar(alphabet)
+	while(alphabet => 'a')
+	{
+	putchar(alphabet);
 	}
-	alphabet--
-	return (0)
+	alphabet--;
+	return (0);
 }
