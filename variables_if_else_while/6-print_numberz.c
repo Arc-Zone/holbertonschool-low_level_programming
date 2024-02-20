@@ -7,7 +7,7 @@ int main ()
 	int i;
 	while(i < 10)
 	{
-		putchar("%d", i);
+		putchar(i);
 	}
 		putchar("\n");
 }	
