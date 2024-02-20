@@ -10,6 +10,6 @@ int main ()
 		putchar('0' + i);
 		i++;
 	}
-	putchar(" \n");
+	putchar('\n');
 	return (0);	
 }	
