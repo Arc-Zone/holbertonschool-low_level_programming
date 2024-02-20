@@ -9,5 +9,5 @@ int main ()
 	{
 		putchar(i);
 	}
-		putchar("\n");
+		
 }	
