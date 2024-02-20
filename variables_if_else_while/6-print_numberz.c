@@ -4,10 +4,10 @@
 
 int main ()
 {
-	int i;
+	int i = 0;
 	while(i < 10)
 	{
-		putchar(i);
+		putchar("%d", i);
 		i++;
 	}
 		
