@@ -17,11 +17,11 @@ int main(void)
 		putchar('0'+ i);
 	}
 
-	char a = 'a';
-	while(a < 'f')
+	char letter  = 'a';
+	while(letter < 'f')
 	{
-		putchar(a);
-		a++;
+		putchar(letter);
+		letter++;
 	}
 	putchar('\n');	
 }
