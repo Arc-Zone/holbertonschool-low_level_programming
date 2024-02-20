@@ -18,6 +18,7 @@ int main(void)
 		alphabet++;
 	}
 	char alphabets = 'A';
+
 	while(alphabets <= 'Z')
 	{
 		putchar(alphabets);
