@@ -18,7 +18,8 @@ int main(void)
 	}
 
 	char a = 'a';
-	while(a < 'f'){
+	while(a < 'f')
+	{
 		putchar(a);
 		a++;
 	}
