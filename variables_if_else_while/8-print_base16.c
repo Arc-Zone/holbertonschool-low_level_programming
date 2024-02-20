@@ -18,10 +18,12 @@ int main(void)
 	}
 
 	char letter  = 'a';
-	while(letter < 'f')
+	while(letter <= 'f')
 	{
 		putchar(letter);
 		letter++;
 	}
-	putchar('\n');	
+	putchar('\n');
+	return (0);	
 }
+
