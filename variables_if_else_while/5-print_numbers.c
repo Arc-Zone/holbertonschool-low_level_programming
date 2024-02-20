@@ -1,7 +1,16 @@
 #include <stdio.h>
+
+/**
+ * main - Entry point
+ *
+ * Description : print size
+ *
+ * Return: Always 0 (Success)
+ */
+
 int main(void)
-{ 
-	int i ;  
+{
+	int i ;
 	for (i = 0 ; i < 10; i++)
 	{
 		printf("%d", i);
