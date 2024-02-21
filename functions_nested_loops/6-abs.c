@@ -4,6 +4,8 @@
  *
  * Description : print size
  *
+ * @n - parametre int
+ *
  * Return: Always 0 (Success)
  */
 int _abs(int n)
