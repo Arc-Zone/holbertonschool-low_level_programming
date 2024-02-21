@@ -12,7 +12,7 @@
 
 void print_alphabet(void)
 {
-        int  alphabet = 97;
+        int alphabet = 97;
 
         while (alphabet <= 122)
         {
