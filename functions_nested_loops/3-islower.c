@@ -7,5 +7,5 @@ int _islower(int c)
 	}{
 		return(0);
 	}
-	__putchar('\n')
+	__putchar('\n');
 
