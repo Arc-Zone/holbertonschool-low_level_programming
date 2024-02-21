@@ -2,7 +2,6 @@
 
 int main(void)
 {
-
 	__putchar(_);
 	__putchar(_);
 	__putchar(p);
