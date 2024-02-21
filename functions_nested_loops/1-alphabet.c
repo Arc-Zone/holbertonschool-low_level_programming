@@ -10,9 +10,14 @@
  * On error, -1 is returned, and errno is set appropriately.
  */
 
-int main(void)
+void print_alphabet(void)
 {
-	print_alphabet(void);
-	return (0);
-}
+        char alphabet = 'a';
 
+        while (alphabet <= 'z')
+        {
+               __putchar(alphabet);
+                alphabet++;
+        }
+        __putchar('\n');
+}
