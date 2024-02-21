@@ -3,6 +3,8 @@
 int main(void)
 {
 	char c = "mathieur est aigris";
+
 	__putchar(c);
-	return(0);
+
+	return (0);
 }
