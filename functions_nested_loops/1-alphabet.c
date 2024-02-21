@@ -20,4 +20,5 @@ void print_alphabet(void)
                 alphabet++;
         }
         _putchar('\n');
+	return(0);
 }
