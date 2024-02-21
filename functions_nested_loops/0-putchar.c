@@ -2,6 +2,6 @@
 
 int main (void) 
 {
-	__putchar();
+	__putchar(__putchar);
 	return(0);
 }
