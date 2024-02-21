@@ -2,9 +2,15 @@
 
 int main(void)
 {
-	char c = "__putchar";
 
+	__putchar(_);
+	__putchar(_);
+	__putchar(p);
+	__putchar(u);
+	__putchar(t);
 	__putchar(c);
-
+	__putchar(h);
+	__putchar(a);
+	__putchar(r);
 	return (0);
 }
