@@ -1,6 +1,3 @@
-#include <stdlib.h>
-#include <time.h>
-#include <stdio.h>
 #include "main.h"
 /**
  * _putchar - writes the character c to stdout
