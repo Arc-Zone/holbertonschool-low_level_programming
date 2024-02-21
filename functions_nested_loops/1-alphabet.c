@@ -1,7 +1,7 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
-
+#include "main.h"
 /**
  * _putchar - writes the character c to stdout
  * @c: The character to print
@@ -12,21 +12,7 @@
 
 int main(void)
 {
-	print_alphabet(void)
+	print_alphabet(void);
 	return (0);
 }
 
-void print_alphabet(void)
-{
-	char alphabet = 'a';
-
-	while (alphabet <= 'z')
-	{
-		if (alphabet != 'e' &&  alphabet != 'q')
-		{
-			putchar(alphabet);
-		}
-		alphabet++;
-	}
-	putchar('\n');
-}
