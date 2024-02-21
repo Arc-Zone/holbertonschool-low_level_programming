@@ -2,6 +2,7 @@
 
 int main (void) 
 {
-	__putchar(__putchar);
+	char c = "mathieur est aigris"
+	__putchar(c);
 	return(0);
 }
