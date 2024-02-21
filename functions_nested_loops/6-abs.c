@@ -4,7 +4,7 @@
  *
  * Description : print size
  *
- * @n - parametre int
+ * @n :  parametre int
  *
  * Return: Always 0 (Success)
  */
