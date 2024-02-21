@@ -9,6 +9,13 @@
  * Return: On success 1.
  * On error, -1 is returned, and errno is set appropriately.
  */
+
+int main(void)
+{
+	print_alphabet(void)
+	return (0);
+}
+
 void print_alphabet(void)
 {
 	char alphabet = 'a';
@@ -22,6 +29,4 @@ void print_alphabet(void)
 		alphabet++;
 	}
 	putchar('\n');
-
-	return (0);
 }
