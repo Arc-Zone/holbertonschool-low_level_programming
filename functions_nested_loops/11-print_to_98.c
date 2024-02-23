@@ -1,7 +1,7 @@
 #include "main.h"
 void print_to_98(int n)
 {
-	init i;
+	int i;
 	if( n < 98 )
 	{
 		for( i = n ; i < 98 ; i++)
