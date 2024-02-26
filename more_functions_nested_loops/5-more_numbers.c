@@ -1,5 +1,11 @@
 #include "main.h"
-
+/**
+ * more_numbers  - entry point
+ *
+ * Description: return a *b result
+ *
+ * Return: 0 to 9
+ */
 void more_numbers(void)
 {
 	int i;
