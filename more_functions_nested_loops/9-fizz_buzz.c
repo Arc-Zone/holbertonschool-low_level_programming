@@ -19,7 +19,7 @@ int main ()
 		} {
 			 printf('FizzBuzz');
 		}		
-		_putchar('0' + i);
+		printf('0' + i);
 	}		
-_putchar('\n')
+printf('\n')
 }
