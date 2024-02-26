@@ -1,8 +1,8 @@
-#include "main.h"
+#include "main.h"@
 
 void print_diagonal(int n)
 {
-	int i , j ;
+	int i, j;
 
 	if (n > 0)
 	{
@@ -16,9 +16,7 @@ void print_diagonal(int n)
 			_putchar('\n');
 		}
 	} else
-       	{
+		{
 		_putchar('\n');
-	} 
-
-	
+	}
 }
