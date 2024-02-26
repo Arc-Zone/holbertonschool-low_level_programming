@@ -3,11 +3,11 @@
  * mul  - entry point
  *
  * @a: number
- * &b: number 
+ * @b: number
  *
  * Description: return a *b result
  *
- * Return: a * b result 
+ * Return: a * b result
  */
 int mul(int a, int b)
 {
