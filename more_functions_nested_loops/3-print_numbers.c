@@ -1,5 +1,12 @@
 #include "main.h"
-
+/**
+ * print_numbers  - entry point
+ *
+ *
+ * Description: return a *b result
+ *
+ * Return: 0 to 9
+ */
 void print_numbers(void)
 {
 	int i;
