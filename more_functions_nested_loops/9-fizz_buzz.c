@@ -7,13 +7,13 @@ int main ()
 	for(i = 0 ; i <= 100 ; i++)
 	{
 		if(i % 3 == 0){
-			_putchar('Fizz');
+			printf('Fizz');
 		} else if (i % 5 == 0)
 		{
-			_putchar('Buzz');
+			printf('Buzz');
 		} {
-			 _putchar('FizzBuzz');
-		}			
+			 printf('FizzBuzz');
+		}		
 		_putchar('0' + i);
 	}		
 _putchar('\n')
