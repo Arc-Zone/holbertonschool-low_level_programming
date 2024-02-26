@@ -5,7 +5,7 @@ void print_line(int n)
 	int i;
 	for(i = 0 ; i < n ; i++)
 	{
-		_putchar('\_\Â');
+		_putchar('_Â')
 	}
 	_putchar('\n');
 }
