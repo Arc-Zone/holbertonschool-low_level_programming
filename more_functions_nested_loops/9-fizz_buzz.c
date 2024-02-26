@@ -1,5 +1,9 @@
 #include "main.h"
-#include <stdioh>
+#include <unistd.h>
+#include <stdlib.h>
+#include <time.h>
+#include <stdio.h>
+
 
 int main ()
 {
