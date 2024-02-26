@@ -1,5 +1,13 @@
 #include "main.h"
 
+/**
+ * print_most_numbers  - entry point
+ *
+ * Description: return a *b result
+ *
+ * Return: 0 to 9
+ */
+
 void print_most_numbers(void)
 {
 	int i;
