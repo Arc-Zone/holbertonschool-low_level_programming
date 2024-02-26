@@ -5,9 +5,9 @@ void print_numbers(void)
 	int i;
 	for(i = 0 ; i < 10 ; i++)
 	{
-		_putchar("0" + i)Ã;
+		_putchar('0' + i)Ã;
 	}
 	
-	_putchar("\n");
+	_putchar('\n');
 
 }
