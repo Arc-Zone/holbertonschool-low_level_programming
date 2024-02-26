@@ -1,5 +1,11 @@
 #include "main.h"
-
+/**
+ * print_diagonal  - entry point
+ *
+ * Description: return a *b result
+ *
+ * @n : number of line
+ */
 void print_diagonal(int n)
 {
 	int i, j;
