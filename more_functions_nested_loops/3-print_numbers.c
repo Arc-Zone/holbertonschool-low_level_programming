@@ -2,7 +2,6 @@
 /**
  * print_numbers  - entry point
  *
- *
  * Description: return a *b result
  *
  * Return: 0 to 9
