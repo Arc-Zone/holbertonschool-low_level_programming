@@ -4,7 +4,7 @@
  *
  * Description: return a *b result
  *
- * 
+ *
  */
 void print_line(int n)
 {
